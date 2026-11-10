@@ -1,0 +1,41 @@
+/* styles/rectangulo.css - Página del Rectángulo - Alexis Bastidas */
+/* Paleta "Oscuro": #EDEDED #9CA3AF #4B5563 #1F2937 #111827 */
+
+html {
+    background-color: #1F2937;
+}
+
+body {
+    font-family: "Courier New", Courier, monospace;
+    background-color: #1F2937;
+    color: #EDEDED;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #EDEDED;
+    background-color: #111827;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #111827;
+    background-color: #9CA3AF;
+}
+
+p {
+    color: #EDEDED;
+}
+
+strong {
+    color: #9CA3AF;
+}
+
+em {
+    color: #9CA3AF;
+}
+
+a {
+    color: #EDEDED;
+    background-color: #4B5563;
+}
