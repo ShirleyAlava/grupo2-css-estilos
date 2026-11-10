@@ -1,0 +1,39 @@
+html {
+    background-color: #EAF2F8;
+}
+
+body {
+    font-family: Tahoma, Verdana, sans-serif;
+    background-color: #EAF2F8;
+    color: #1D2D44;
+}
+
+h1 {
+    font-family: Georgia, "Times New Roman", serif;
+    color: #EAF2F8;
+    background-color: #1D2D44;
+}
+
+h2 {
+    font-family: Georgia, "Times New Roman", serif;
+    color: #1D2D44;
+    background-color: #C9DCE8;
+}
+
+h3 {
+    color: #EAF2F8;
+    background-color: #3E5C76;
+}
+
+li {
+    color: #3E5C76;
+}
+
+p {
+    color: #1D2D44;
+}
+
+a {
+    color: #1D2D44;
+    background-color: #8AA9C4;
+}
