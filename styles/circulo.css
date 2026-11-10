@@ -1,0 +1,38 @@
+html {
+    background-color: #EDE0D4;
+}
+ 
+body {
+    font-family: Georgia, "Times New Roman", serif;
+    background-color: #EDE0D4;
+    color: #3E2C23;
+}
+ 
+h1 {
+    font-family: "Trebuchet MS", Arial, sans-serif;
+    color: #EDE0D4;
+    background-color: #3E2C23;
+}
+ 
+h2 {
+    font-family: "Trebuchet MS", Arial, sans-serif;
+    color: #3E2C23;
+    background-color: #C9A27E;
+}
+ 
+p {
+    color: #3E2C23;
+}
+ 
+strong {
+    color: #6F4E37;
+}
+ 
+li {
+    color: #6F4E37;
+}
+ 
+a {
+    color: #EDE0D4;
+    background-color: #A47148;
+}
