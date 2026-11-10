@@ -1,0 +1,39 @@
+html {
+    background-color: #FBF7F0;
+}
+
+body {
+    font-family: "Trebuchet MS", Arial, sans-serif;
+    background-color: #FBF7F0;
+    color: #4A3B2A;
+}
+
+h1 {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    color: #4A3B2A;
+    background-color: #C7B299;
+}
+
+h2 {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    color: #4A3B2A;
+    background-color: #E6D5BE;
+}
+
+h3 {
+    color: #4A3B2A;
+    background-color: #F1E8D9;
+}
+
+p {
+    color: #4A3B2A;
+}
+
+strong {
+    color: #7A5C3A;
+}
+
+a {
+    color: #4A3B2A;
+    background-color: #D8C3A5;
+}
