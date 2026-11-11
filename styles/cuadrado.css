@@ -1,0 +1,37 @@
+/* styles/cuadrado.css - Página del Cuadrado - Jean Marcos Yugsi */
+/* Paleta "Otoño": #F4E1C1 #D9A05B #B5651D #8C3B1B #5A2A1B */
+
+html {
+    background-color: #F4E1C1;
+}
+
+body {
+    font-family: Verdana, Geneva, sans-serif;
+    background-color: #F4E1C1;
+    color: #5A2A1B;
+}
+
+h1 {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    color: #F4E1C1;
+    background-color: #8C3B1B;
+}
+
+h2 {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    color: #5A2A1B;
+    background-color: #D9A05B;
+}
+
+p {
+    color: #5A2A1B;
+}
+
+em {
+    color: #8C3B1B;
+}
+
+a {
+    color: #F4E1C1;
+    background-color: #B5651D;
+}
